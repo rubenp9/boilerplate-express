@@ -50,7 +50,7 @@ console.log("Hello World");
 
 // This would be part of the basic setup of an Express app
 // but to allow FCC to run tests, the server is already active
-/** app.listen(process.env.PORT || 3000 ); */
+ app.listen(process.env.PORT || 3000 );
 
 //---------- DO NOT EDIT BELOW THIS LINE --------------------
 
